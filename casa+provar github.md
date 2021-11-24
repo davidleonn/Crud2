@@ -1,5 +1,3 @@
-//Crud 2 que hice en casa
-
 pragma solidity ^0.5.0;
 
 contract Crud {
